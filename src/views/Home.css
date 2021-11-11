@@ -1,0 +1,28 @@
+.home {
+  height: 100%;
+  margin: 20px 10%;
+}
+
+.home .actions {
+  display: flex;
+  margin-top: 50px;
+}
+
+.home .actions .select {
+  width: 150px;
+  margin: 0 20px;
+}
+
+.home .images {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+.home .images .image-box {
+  margin: 20px 20px;
+}
+
+.home .images .image-box img {
+  width: 250px;
+  height: 250px;
+}
